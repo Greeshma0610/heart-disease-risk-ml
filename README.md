@@ -2,7 +2,6 @@
 
 End-to-end **machine learning** project that predicts heart disease risk from clinical features, compares multiple models, and explains predictions with **SHAP**.
 
-
 ## Problem
 
 Clinicians and screening tools need a fast, interpretable estimate of cardiovascular risk from routine measurements (age, blood pressure, cholesterol, ECG-related features, etc.). A black-box score is not enough — stakeholders need **why** a patient was flagged.
