@@ -2,7 +2,6 @@
 
 End-to-end **machine learning** project that predicts heart disease risk from clinical features, compares multiple models, and explains predictions with **SHAP**.
 
-Built as a **1-week resume project** for ML / Data Science roles.
 
 ## Problem
 
